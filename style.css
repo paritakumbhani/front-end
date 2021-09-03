@@ -1,0 +1,70 @@
+div {
+    border-radius: 5px;
+}
+body{
+    background-color: bisque;
+}
+#header {
+    height: 40px;
+    width: 98%;
+    background-color: #668284;
+}
+
+.contact{
+    float: left;
+    padding-left:800px;
+}
+
+h1 {
+    float: left;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    color: #ffffff;
+}
+
+img 
+{padding-top: 30px;
+    float: right;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#job-res {
+    padding: 1px;
+}
+
+#job-title {
+    font-weight: bold;
+}
+
+table {
+    border: 1px dashed black;
+}
+
+td {
+    padding: 2px;
+    border: 1px solid #E88741;
+}
+
+#company-name {
+    text-decoration: underline;
+}
+
+#job-title {
+    height: 5px;
+}
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
